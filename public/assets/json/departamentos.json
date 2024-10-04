@@ -1,0 +1,266 @@
+[
+  {
+    "name": "01",
+    "DPTO": "05",
+    "NOMBRE_DPT": "ANTIOQUIA",
+    "AREA": 63351855546.895,
+    "PERIMETER": 1963728.843,
+    "HECTARES": 6335185.555
+  },
+  {
+    "name": "03",
+    "DPTO": "08",
+    "NOMBRE_DPT": "ATLANTICO",
+    "AREA": 3360765349.961,
+    "PERIMETER": 240936.172,
+    "HECTARES": 336076.535
+  },
+  {
+    "DPTO": "11",
+    "name": "16",
+    "NOMBRE_DPT": "SANTAFE DE BOGOTA D.C",
+    "AREA": 1650947779.134,
+    "PERIMETER": 323322.54,
+    "HECTARES": 165094.778
+  },
+  {
+    "DPTO": "13",
+    "name": "05",
+    "NOMBRE_DPT": "BOLIVAR",
+    "AREA": 26141894527.75,
+    "PERIMETER": 1309427.968,
+    "HECTARES": 2614189.453
+  },
+  {
+    "DPTO": "15",
+    "name": "07",
+    "NOMBRE_DPT": "BOYACA",
+    "AREA": 23352582463.939,
+    "PERIMETER": 1364539.911,
+    "HECTARES": 2335258.246
+  },
+  {
+    "DPTO": "17",
+    "name": "09",
+    "NOMBRE_DPT": "CALDAS",
+    "AREA": 7558199875.556,
+    "PERIMETER": 603282.457,
+    "HECTARES": 755819.988
+  },
+  {
+    "DPTO": "18",
+    "name": "44",
+    "NOMBRE_DPT": "CAQUETA",
+    "AREA": 90180868828.821,
+    "PERIMETER": 1888506.901,
+    "HECTARES": 9018086.883
+  },
+  {
+    "DPTO": "19",
+    "name": "11",
+    "NOMBRE_DPT": "CAUCA",
+    "AREA": 29742787301.199,
+    "PERIMETER": 1243388.952,
+    "HECTARES": 2974278.73
+  },
+  {
+    "DPTO": "20",
+    "name": "12",
+    "NOMBRE_DPT": "CESAR",
+    "AREA": 22973095679.788,
+    "PERIMETER": 1080343.678,
+    "HECTARES": 2297309.568
+  },
+  {
+    "DPTO": "23",
+    "name": "13",
+    "NOMBRE_DPT": "CORDOBA",
+    "AREA": 25059485605.512,
+    "PERIMETER": 814093.372,
+    "HECTARES": 2505948.561
+  },
+  {
+    "DPTO": "25",
+    "name": "15",
+    "NOMBRE_DPT": "CUNDINAMARCA",
+    "AREA": 22800258637.523,
+    "PERIMETER": 1164175.024,
+    "HECTARES": 2280025.864
+  },
+  {
+    "DPTO": "27",
+    "name": "17",
+    "NOMBRE_DPT": "CHOCO",
+    "AREA": 46838522629.87,
+    "PERIMETER": 1797897.873,
+    "HECTARES": 4683852.263
+  },
+  {
+    "DPTO": "41",
+    "name": "19",
+    "NOMBRE_DPT": "HUILA",
+    "AREA": 20318702519.012,
+    "PERIMETER": 929144.166,
+    "HECTARES": 2031870.252
+  },
+  {
+    "DPTO": "44",
+    "name": "48",
+    "NOMBRE_DPT": "LA GUAJIRA",
+    "AREA": 21012349660.45,
+    "PERIMETER": 936598.02,
+    "HECTARES": 2101234.966
+  },
+  {
+    "DPTO": "47",
+    "name": "21",
+    "NOMBRE_DPT": "MAGDALENA",
+    "AREA": 22846394629.859,
+    "PERIMETER": 916642.47,
+    "HECTARES": 2284639.463
+  },
+  {
+    "DPTO": "50",
+    "name": "52",
+    "NOMBRE_DPT": "META",
+    "AREA": 85389685783.838,
+    "PERIMETER": 1680541.812,
+    "HECTARES": 8538968.578
+  },
+  {
+    "DPTO": "52",
+    "name": "23",
+    "NOMBRE_DPT": "NARIÑO",
+    "AREA": 33283045970.747,
+    "PERIMETER": 1015680.966,
+    "HECTARES": 3328304.597
+  },
+  {
+    "DPTO": "54",
+    "name": "25",
+    "NOMBRE_DPT": "NORTE DE SANTANDER",
+    "AREA": 21443330911.239,
+    "PERIMETER": 914288.244,
+    "HECTARES": 2144333.091
+  },
+  {
+    "DPTO": "63",
+    "name": "26",
+    "NOMBRE_DPT": "QUINDIO",
+    "AREA": 1732025801.293,
+    "PERIMETER": 207948.857,
+    "HECTARES": 173202.58
+  },
+  {
+    "DPTO": "66",
+    "NOMBRE_DPT": "RISARALDA",
+    "name": "24",
+    "AREA": 4042733125.761,
+    "PERIMETER": 436988.677,
+    "HECTARES": 404273.313
+  },
+  {
+    "DPTO": "68",
+    "name": "27",
+    "NOMBRE_DPT": "SANTANDER",
+    "AREA": 30290221671.891,
+    "PERIMETER": 1036566.662,
+    "HECTARES": 3029022.167
+  },
+  {
+    "DPTO": "70",
+    "name": "28",
+    "NOMBRE_DPT": "SUCRE",
+    "AREA": 10823789104.326,
+    "PERIMETER": 688869.681,
+    "HECTARES": 1082378.91
+  },
+  {
+    "DPTO": "73",
+    "name": "29",
+    "NOMBRE_DPT": "TOLIMA",
+    "AREA": 23421273474.061,
+    "PERIMETER": 853045.779,
+    "HECTARES": 2342127.347
+  },
+  {
+    "DPTO": "76",
+    "name": "31",
+    "NOMBRE_DPT": "VALLE DEL CAUCA",
+    "AREA": 22146825343.909,
+    "PERIMETER": 995449.434,
+    "HECTARES": 2214682.534
+  },
+  {
+    "DPTO": "81",
+    "name": "40",
+    "NOMBRE_DPT": "ARAUCA",
+    "AREA": 24196379863.35,
+    "PERIMETER": 843446.026,
+    "HECTARES": 2419637.986
+  },
+  {
+    "DPTO": "85",
+    "name": "46",
+    "NOMBRE_DPT": "CASANARE",
+    "AREA": 44714094970.35,
+    "PERIMETER": 1101844.91,
+    "HECTARES": 4471409.497
+  },
+  {
+    "DPTO": "86",
+    "name": "64",
+    "NOMBRE_DPT": "PUTUMAYO",
+    "AREA": 24707681631.591,
+    "PERIMETER": 1194372.666,
+    "HECTARES": 2470768.163
+  },
+  {
+    "DPTO": "91",
+    "name": "60",
+    "NOMBRE_DPT": "AMAZONAS",
+    "AREA": 110029418235.446,
+    "PERIMETER": 2562641.642,
+    "HECTARES": 11002941.824
+  },
+  {
+    "DPTO": "94",
+    "name": "50",
+    "NOMBRE_DPT": "GUAINIA",
+    "AREA": 72111494561.286,
+    "PERIMETER": 1882807.19,
+    "HECTARES": 7211149.456
+  },
+  {
+    "DPTO": "95",
+    "name": "54",
+    "NOMBRE_DPT": "GUAVIARE",
+    "AREA": 55671476686.65,
+    "PERIMETER": 1555059.349,
+    "HECTARES": 5567147.669
+  },
+  {
+    "DPTO": "97",
+    "name": "68",
+    "NOMBRE_DPT": "VAUPES",
+    "AREA": 53087838626.98,
+    "PERIMETER": 1666564.449,
+    "HECTARES": 5308783.863
+  },
+  {
+    "DPTO": "99",
+    "name": "72",
+    "NOMBRE_DPT": "VICHADA",
+    "AREA": 100055282904.151,
+    "PERIMETER": 1781121.957,
+    "HECTARES": 10005528.29
+  },
+  {
+    "DPTO": "88",
+    "name": "56",
+    "NOMBRE_DPT": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA",
+    "AREA": 49602521.129,
+    "PERIMETER": 71946.251,
+    "HECTARES": 4960.252
+  }
+]

@@ -1,0 +1,19 @@
+#colombia-map {
+  width: 50%;
+  height: 600px;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+}
+.row {
+  display: block;
+  width: 100%;
+  display: inline-flex;
+}
+
+.row .col {
+  width: 50%;
+  display: inline-flex;
+}
